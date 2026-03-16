@@ -1,9 +1,9 @@
-# 💫 Hi 👋, I'm Pushpak Kore
+#  Hi 👋, I'm Pushpak Kore
 **A passionate Data Analyst ||  AI/ML Engineer**
 
 Email Me 👉 ✉️ **pushpakkore56@gmail.com**  😊
 
-# 💫 About Me:
+#  About Me:
 I am a Computer Science undergraduate specializing in Artificial Intelligence and Data Analytics at MIT ADT University, Pune. I am passionate about building practical AI-driven systems and data-powered applications that solve real-world problems. My interests include machine learning, system monitoring, data analytics, and intelligent automation.<br><br>I enjoy developing end-to-end projects that combine backend systems, data processing, and interactive dashboards. Some of my key projects include **SysSentry**, a real-time system monitoring platform, **SmartDoc AI**, a RAG-based document question-answering system, and **LLM Debugger Helper**, an AI-assisted debugging tool.<br><br>I am continuously learning new technologies and exploring innovative ways to apply AI and data science in real-world applications.<br>
 
 
